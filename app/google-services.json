@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359173282519",
+    "project_id": "coding-aja",
+    "storage_bucket": "coding-aja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359173282519:android:ee9381ec686f69a6da2e92",
+        "android_client_info": {
+          "package_name": "com.masvatif.codingaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359173282519-obk0qvrcsoe4ud7tbcst65i2pp87c4cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJlvmLNxQNPP07K6Zj21zsYD6DAv-yS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359173282519-obk0qvrcsoe4ud7tbcst65i2pp87c4cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
