@@ -3,16 +3,43 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable-v24/bottom_navigation_selector.xml" value="0.25833333333333336" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable-v24/button_square.xml" value="0.2824074074074074" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable-v24/ic_unverified.xml" value="0.25555555555555554" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/blue_rectangle.xml" value="0.25833333333333336" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/btn_join.xml" value="0.25833333333333336" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/button_onboard.xml" value="0.2824074074074074" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/button_square.xml" value="0.25555555555555554" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/card_kategori.xml" value="0.25833333333333336" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/elipse.xml" value="0.25833333333333336" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/form.xml" value="0.2740740740740741" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.25833333333333336" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/indicator_active_background.xml" value="0.2777777777777778" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/indicator_inactive_background.xml" value="0.2777777777777778" />
-        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/reactangel_search.xml" value="0.25833333333333336" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/drawable/rectange_serch.xml" value="0.25833333333333336" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_class_design.xml" value="0.2" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_detail_class.xml" value="0.176" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_free_class.xml" value="0.264" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_home.xml" value="0.19927536231884058" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
-        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_onboarding_one.xml" value="0.2" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_onboarding_one.xml" value="0.264" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_search_class.xml" value="0.4" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_sign_up_finish.xml" value="0.152" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/activity_splash.xml" value="0.16799999999999998" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/fragment_course.xml" value="0.264" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/fragment_scrolling.xml" value="0.21195652173913043" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/fragment_user.xml" value="0.264" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/item_kelas_gratis.xml" value="0.2" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/item_kelas_gratis_all.xml" value="0.4" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/item_shimmer.xml" value="0.20244565217391305" />
         <entry key="..\:/Android Apk/CodingAja/app/src/main/res/layout/onboarding_item_container.xml" value="0.1334853090172239" />
+        <entry key="..\:/Android Apk/CodingAja/app/src/main/res/menu/menu_nav.xml" value="0.2439814814814815" />
       </map>
     </option>
   </component>
